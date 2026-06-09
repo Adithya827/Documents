@@ -94,7 +94,6 @@ This repository is regularly updated as I complete new certifications, internshi
 ## 📬 Connect With Me
 
 * GitHub: https://github.com/Adithya827
-* LinkedIn: Add Your LinkedIn Profile Here
 
 ---
 
