@@ -29,8 +29,8 @@ I am passionate about technology, software development, cloud computing, and dat
 | Internship               | Organization         | Certificate                                                   |
 | ------------------------ | -------------------- | ------------------------------------------------------------- |
 | MERN Stack Internship    | AitchNu              | [View Certificate](./AitchNu_MERN_Internship_Certificate.pdf) |
-| Cloud Computing          | Infotise IT Solution | [View Certificate](./Internship%201.jpg)                      |
-| Web Development          | Infotise IT Solution | [View Certificate](./Internship%202.jpg)                      |
+| Web Development          | Infotise IT Solution | [View Certificate](./Internship%201.jpg)                      |
+| Cloud Computing          | Infotise IT Solution | [View Certificate](./Internship%202.jpg)                      |
 
 ---
 
