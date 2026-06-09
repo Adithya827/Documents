@@ -17,18 +17,23 @@ I am passionate about technology, software development, cloud computing, and dat
 | Certification             | Issuing Organization      | Category                 | Certificate                                                                         |
 | ------------------------- | ------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
 | AWS Cloud Foundations     | Amazon Web Services (AWS) | Cloud Computing          | [View](./Certificate/aws%20cloud.pdf)                                               |
-| Data Analytics Essentials | IBM                       | Data Analytics           | [View](./Certificate/DataAnalyticsEssentialsUpdate20260504-32-jikehp%20%281%29.pdf) |
+| Data Analytics Essentials | CISCO                     | Data Analytics           | [View](./Certificate/DataAnalyticsEssentialsUpdate20260504-32-jikehp%20%281%29.pdf) |
 | IBM Design Thinking       | IBM                       | Design Thinking          | [View](./Certificate/IBMDesign20251119-29-y1hu0b.pdf)                               |
-| Coursera Certification    | Coursera                  | Professional Development | [View](./Certificate/Coursera%20XIF4ADEWPUB7.pdf)                                   |
-| Additional e-Certificate  | Professional Training     | Certification            | [View](./Certificate/eCertificate.pdf)                                              |
+| Google AI Essentials      | Coursera                  | AI Essentials            | [View](./Certificate/Coursera%20XIF4ADEWPUB7.pdf)                                   |
+| Oracle Certification      | Oracle                    | Certification            | [View](./Certificate/eCertificate.pdf)                                              |
 
 ---
 
 ## 💼 Internship Certificates
 
-| Internship            | Organization | Certificate                                                   |
-| --------------------- | ------------ | ------------------------------------------------------------- |
-| MERN Stack Internship | AitchNu      | [View Certificate](./AitchNu_MERN_Internship_Certificate.pdf) |
+| Internship               | Organization         | Certificate                                                   |
+| ------------------------ | -------------------- | ------------------------------------------------------------- |
+| MERN Stack Internship    | AitchNu              | [View Certificate](./AitchNu_MERN_Internship_Certificate.pdf) |
+| Cloud Computing          | Infotise IT Solution | [View Certificate](./Internship%201.jpg)                      |
+| Web Development          | Infotise IT Solution | [View Certificate](./Internship%202.jpg)                      |
+
+---
+
 
 ---
 
